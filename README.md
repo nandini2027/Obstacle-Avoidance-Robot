@@ -43,7 +43,7 @@ The Obstacle Avoidance Robot is an Arduino Uno R3-based robot capable of operati
 [Demo Video](https://youtube.com/shorts/mNPdL-6ve8M?si=yQ3NQIR1cIkRjhgK)
 ## Hardware
 For the complete list of hardware components, descriptions, specifications, and quantities used in this project, refer to 
-![Components List](Components_List.pdf)
+[Components List](Components_List.pdf)
 ## Software
 
 | Software / Library     | Purpose                                                |
