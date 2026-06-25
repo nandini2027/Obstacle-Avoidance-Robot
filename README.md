@@ -38,8 +38,10 @@ The Obstacle Avoidance Robot is an Arduino Uno R3-based robot capable of operati
 *  Modular design supporting an optional floor-cleaning attachment
 *  Rechargeable battery-powered operation using 18650 Li-ion cells
 *  Compact, lightweight, and modular robotic platform
+![Demo Video](DEMO_VIDEO.mp4)
 ## Hardware
-For the complete list of hardware components, descriptions, specifications, and quantities used in this project, refer to the Components_List.pdf included in this repository.
+For the complete list of hardware components, descriptions, specifications, and quantities used in this project, refer to 
+![Components List](Components_List.pdf)
 ## Software
 
 | Software / Library     | Purpose                                                |
@@ -84,5 +86,22 @@ For manual operation, the HM-10 BLE 4.0 Bluetooth module establishes wireless se
 
 * Autonomous Mode: The robot detects obstacles and automatically selects a safe path for navigation.
 * Manual Mode: Connect to the HM-10 BLE module using a compatible Bluetooth terminal or mobile application to control the robot wirelessly.
+## Future Improvements
 
+* Develop a dedicated mobile application for Bluetooth control.
+* Integrate Wi-Fi or IoT connectivity for remote monitoring and operation.
+* Replace the ultrasonic sensor with LiDAR for improved obstacle detection accuracy.
+* Implement camera-based object detection using Computer Vision.
+* Add autonomous charging and battery management capabilities.
+* Incorporate GPS and SLAM algorithms for advanced navigation.
+* Improve the chassis design using 3D-printed components for enhanced durability and aesthetics.
+* Expand the cleaning module with an automatic water dispensing mechanism for wet mopping.
+---
+##  Author
+
+**Nandini Singh**
+
+B.Tech Electronics(IoT)
+
+GitHub: https://github.com/nandini2027
 
